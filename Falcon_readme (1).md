@@ -4,7 +4,7 @@
 
 ##### A key component of FIS’ Core Modernization Strategy
 Provide financial institutions with comprehensive Customer Information Management across all lines of business.
-[image]
+![Slide3.png](https://www.dropbox.com/s/6b4364z921n3bef/Slide3.png?dl=0&raw=1)
 
 ## Customer Data Management Concerns
 #### User
@@ -18,15 +18,15 @@ Provide financial institutions with comprehensive Customer Information Managemen
 * Adherence to data protection regulations
 
 ### Demo
-Harry opening a bank account with NextGenBank
+Harry opening a bank account with NextGenBank ![slide5.png](https://www.dropbox.com/s/ljaha8y3reehhdr/slide5.png?dl=0&raw=1)
 
 #### Self Sovereign Identity (SSI) 
 * Self Sovereign identity provides decentralized trust to verify Customer information
-[image]
+![slide6.png](https://www.dropbox.com/s/gbv6hxphcjyiyno/slide6.png?dl=0&raw=1)
 
 #### Decentralized Identifier (DID) 
 * Key component of Self Sovereign identity is a Decentralized Identifier or DID
-[image]
+![slide7.png](https://www.dropbox.com/s/w4mulfp4fawwrxp/slide7.png?dl=0&raw=1)
 * DIDs are globally unique identifiers created by their owner, independent of any central authority
 * DIDs point to a DID definition having public keys, endpoints and other information about the owner
 
@@ -36,9 +36,9 @@ Integrate Self Sovereign Identity (SSI) to Enterprise Customer providing Digital
 # Architecture Overview
 * Leveraging Hyperledger Indy project for Self Sovereign Identify framework
 * Integrate SSI agent within Enterprise Customer to process Credential proofs 
-[image]
+![slide9.png](https://www.dropbox.com/s/3kptmz1bxmmxuud/slide9.png?dl=0&raw=1)
 # Hyperledger Indy
-[image] [image]
+![slide10a.png](https://www.dropbox.com/s/izezydfsvet5pzy/slide10a.png?dl=0&raw=1) ![slide10b.png](https://www.dropbox.com/s/izueqgp00uxqkaf/slide10b.png?dl=0&raw=1)
 * One of the projects under the Hyperledger platform, an open source global collaboration hosted by The Linux Foundation to advance cross-industry Blockchain technologies
 * Distributed ledger, purpose-built for decentralized identity
 * Public Permissioned Blockchain, validators are within the eco system
@@ -60,8 +60,7 @@ Integrate Self Sovereign Identity (SSI) to Enterprise Customer providing Digital
 * Customer shares the connection DID and blinded linked secret.
 * Issuers issue credentials to the customer.
 * Credentials are securely stored in his own wallet (agent in his mobile/laptop).
- [image]
-
+![slide15.png](https://www.dropbox.com/s/3hk4ognxjfmvc11/slide15.png?dl=0&raw=1)
 #### Process Explained - #3 Bank (EC)
 * Depending on the product selected by Customer, EC issues a proof request with information needed for account opening.
 * Proof requests can, in addition to the data elements needed, also indicate if it need to be from a specific Issuer.
