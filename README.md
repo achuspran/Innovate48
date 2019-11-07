@@ -18,7 +18,7 @@ Provide financial institutions with comprehensive Customer Information Managemen
 * Adherence to data protection regulations
 
 ### Demo
-Harry opening a bank account with NextGenBank ![slide5.png](https://blogpr.000webhostapp.com/upload/slide5.png)
+Harry opening a bank account with NextGenBank
 
 #### Self Sovereign Identity (SSI) 
 * Self Sovereign identity provides decentralized trust to verify Customer information
